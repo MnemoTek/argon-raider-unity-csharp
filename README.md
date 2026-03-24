@@ -105,6 +105,6 @@ This repository showcases the development of a published mobile game and highlig
 ## Developer
 
 Cristian Nastasă
-owner Menmoteknik Studio and MnemoTek
+owner of Menmoteknik Studio and MnemoTek
 Mnemoteknik Studio
 
